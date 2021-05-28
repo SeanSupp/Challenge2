@@ -2,7 +2,7 @@
 % Please edit documentation in R/sample_mean.R
 \name{sample_mean}
 \alias{sample_mean}
-\title{Returns mean of random sample of size n}
+\title{Returns mean of random sample}
 \usage{
 sample_mean(vec, n)
 }
@@ -15,5 +15,5 @@ sample_mean(vec, n)
 Mean of random sample of size n of vec
 }
 \description{
-Returns mean of random sample of size n
+Returns mean of random sample
 }
